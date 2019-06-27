@@ -1,0 +1,57 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  width: 900px;
+  margin: 0 auto;
+  margin-bottom: 35px;
+}
+
+.card-apply {
+  box-shadow: 1px 1px 8px rgba(0,0,0,0.2);
+  height: 277px;
+  width: 226px;
+}
+
+.card-apply img {
+  height: 136px;
+  width: 136px;
+}
+
+.card-apply p {
+  padding: 7px;
+  opacity: 0.5;
+}
+
+.card-learn {
+  box-shadow: 1px 1px 8px rgba(0,0,0,0.2);
+  height: 277px;
+  width: 226px;
+}
+
+.card-learn img {
+  height: 136px;
+  width: 136px;
+}
+
+.card-learn p {
+  padding: 7px;
+  opacity: 0.5;
+}
+
+.card-build {
+  box-shadow: 1px 1px 8px rgba(0,0,0,0.2);
+  height: 277px;
+  width: 226px;
+}
+
+.card-build img {
+  height: 136px;
+  width: 136px;
+}
+
+.card-build p {
+  padding: 7px;
+  opacity: 0.5;
+}
+
